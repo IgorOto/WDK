@@ -1,0 +1,7 @@
+Logarytm dyskretny mo¿na obliczyæ np. metod¹ redukcji Pohliga - Hellmana lub algorytmem Shanksa. 
+Problem logarytmu dyskretnego lezy u podstaw wielu algorytmów np. algorytmu ElGamal.
+W zadaniu do obliczenia logarytmu dyskretnego u¿y³em algorytmu meet-in-the-middle.
+Algorytm GNFS (ang. General Number Field Sieve) jest najszybszym obecnie znanym algorytmem faktoryzacji du¿ych (ponad 100-cyfrowych) liczb.
+Najbardziej czasoch³onnym sposobem obliczania logarytmu dyskretnego jest metoda brute-force (czas O(q)).
+
+x = 54682903145, czas wykonania algorytmu oko³o 35 sekund.

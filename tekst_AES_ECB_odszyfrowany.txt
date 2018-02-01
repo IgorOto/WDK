@@ -1,0 +1,1 @@
+Odszyfrowana wiadomosc = Deserializacja niezaufanych danych pochodz¹cych od u¿ytkownika wiêkszoœci developerów nie powinna wydawaæ siê problematyczna. Dlaczego mia³aby byæ? W koñcu co najwy¿ej serwer dostanie dane, które po zdeserializowaniu stworz¹ obiekt inny od oczekiwanego, co spowoduje b³¹d aplikacji i przerwanie wykonania.
